@@ -7,10 +7,6 @@
       logo: https://www.google.com/s2/favicons?sz=64&domain=www.youtube.com
       url: https://www.youtube.com/channel/UCgV1t5fHFvAVPyprEWvuIzg/
       description: 一个专注于软件安装，科学上网教学的频道！
-      - title: Pinterest
-      logo: https://www.google.com/s2/favicons?sz=64&domain=www.pinterest.com
-      url: https://www.pinterest.com/
-      description: 以视觉方式发现和分享创意的社交媒体平台
     - title: 资源博客
       qrcode: images/qrcodes/bk.png
       logo:  images/logos/kjgxa999f-kjgx1fr3l-001.ico
@@ -75,6 +71,10 @@
       logo:  images/logos/rengtuiban.png
       url: https://dt.bd.cn/#/pages/login/register?invite_code=516557
       description: 一线的APP推广项目分发和流量变现平台
+    - title: Pinterest
+      logo: https://www.google.com/s2/favicons?sz=64&domain=www.pinterest.com
+      url: https://www.pinterest.com/
+      description: 以视觉方式发现和分享创意的社交媒体平台
 
 
 - taxonomy: 社区咨询
